@@ -4,7 +4,7 @@
 * One Day
 * Love Today
 
-# Adding Sowmaya list
+# Sawmya's Favorite Movies
 
 * The SeaBeast
 * Avatar
